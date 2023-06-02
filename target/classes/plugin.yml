@@ -1,9 +1,0 @@
-name: EssentialCore
-version: '0.1'
-main: io.essentialcore.EssentialCore
-api-version: 1.19
-
-commands:
-  tpa:
-  tphere:
-  tpaccept:
